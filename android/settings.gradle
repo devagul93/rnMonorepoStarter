@@ -1,0 +1,3 @@
+rootProject.name = 'reactNativeMonoRepoStarter'
+
+include ':app'
