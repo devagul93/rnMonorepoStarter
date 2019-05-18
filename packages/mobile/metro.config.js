@@ -6,6 +6,7 @@
  */
 
 module.exports = {
+  projectRoot: path.resolve(__dirname, '../../'),
   transformer: {
     getTransformOptions: async () => ({
       transform: {
