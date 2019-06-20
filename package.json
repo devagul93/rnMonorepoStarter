@@ -10,5 +10,9 @@
   "scripts": {
     "studio": "yarn workspace mobile studio",
     "xcode": "yarn workspace mobile xcode"
+  },
+  "devDependencies": {
+    "concurrently": "^4.1.0",
+    "cross-env": "^5.2.0"
   }
 }
