@@ -6,5 +6,9 @@
       "packages/*"
     ],
     "nohoist": []
+  },
+  "scripts": {
+    "studio": "yarn workspace mobile studio",
+    "xcode": "yarn workspace mobile xcode"
   }
 }

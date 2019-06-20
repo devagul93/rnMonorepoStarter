@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "start": "node ../../node_modules/react-native/local-cli/cli.js start --projectRoot ../../",
-    "test": "jest"
+    "test": "jest",
+    "xcode": "open ios/reactNativeMonoRepoStarter.xcodeproj",
+    "studio": "open -a /Applications/Android\\ Studio.app ./android/"
   },
   "dependencies": {
     "components": "*",
