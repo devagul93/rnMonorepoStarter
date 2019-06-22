@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "211021650214",
+    "firebase_url": "https://rnmonorepostarter.firebaseio.com",
+    "project_id": "rnmonorepostarter",
+    "storage_bucket": "rnmonorepostarter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211021650214:android:2c93ac44571f3844",
+        "android_client_info": {
+          "package_name": "com.reactnativemonorepostarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211021650214-7j2d77gihp9fo5enphu6mhbsfemqo788.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKKTXKWMSt-mCrWzozyqO2NadOCMr9_fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211021650214-7j2d77gihp9fo5enphu6mhbsfemqo788.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211021650214-0gs5j97f4il6v18kupagok46njhqc038.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.devanshgulhane.reactNativeMonoRepoStarter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
