@@ -268,6 +268,10 @@ Fabric: Copyright 2018 Google, Inc. All Rights Reserved. Use of this software is
 
 Copyright 2019 Google
 
+## FirebaseABTesting
+
+Copyright 2019 Google
+
 ## FirebaseAnalytics
 
 Copyright 2019 Google
@@ -1507,6 +1511,10 @@ Copyright 2019 Google
    See the License for the specific language governing permissions and
    limitations under the License.
 
+
+## FirebaseRemoteConfig
+
+Copyright 2019 Google
 
 ## GTMSessionFetcher
 
