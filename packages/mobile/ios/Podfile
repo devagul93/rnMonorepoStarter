@@ -15,7 +15,8 @@ target 'reactNativeMonoRepoStarter' do
   pod 'Firebase/Database', '~> 6.2.0'
   pod 'Firebase/RemoteConfig', '~> 6.2.0'
   pod 'Firebase/Storage', '~> 6.2.0'
-
+  pod 'Firebase/Performance', '~> 6.2.0'
+  
   target 'reactNativeMonoRepoStarterTests' do
     inherit! :search_paths
     # Pods for testing
