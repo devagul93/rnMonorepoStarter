@@ -6,13 +6,13 @@
  */
 
 module.exports = {
-  projectRoot: path.resolve(__dirname, '../../'),
+  projectRoot: path.resolve(__dirname, "../../"),
   transformer: {
     getTransformOptions: async () => ({
       transform: {
         experimentalImportSupport: false,
-        inlineRequires: false,
-      },
-    }),
-  },
+        inlineRequires: false
+      }
+    })
+  }
 };

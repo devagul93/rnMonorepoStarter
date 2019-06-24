@@ -11,11 +11,13 @@
   },
   "scripts": {
     "studio": "yarn workspace mobile studio",
-    "xcode": "yarn workspace mobile xcode"
+    "xcode": "yarn workspace mobile xcode",
+    "prettier": "yarn workspace mobile prettier && yarn workspace components prettier"
   },
   "devDependencies": {
     "concurrently": "^4.1.0",
-    "cross-env": "^5.2.0"
+    "cross-env": "^5.2.0",
+    "prettier": "^1.18.2"
   },
   "dependencies": {}
 }
