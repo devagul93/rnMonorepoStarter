@@ -14,7 +14,8 @@ target 'reactNativeMonoRepoStarter' do
   pod 'Crashlytics', '~> 3.13.1'
   pod 'Firebase/Database', '~> 6.2.0'
   pod 'Firebase/RemoteConfig', '~> 6.2.0'
-  
+  pod 'Firebase/Storage', '~> 6.2.0'
+
   target 'reactNativeMonoRepoStarterTests' do
     inherit! :search_paths
     # Pods for testing

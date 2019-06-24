@@ -18,6 +18,7 @@ import io.invertase.firebase.config.RNFirebaseRemoteConfigPackage;
 import io.invertase.firebase.firestore.RNFirebaseFirestorePackage;
 import io.invertase.firebase.fabric.crashlytics.RNFirebaseCrashlyticsPackage;
 import io.invertase.firebase.database.RNFirebaseDatabasePackage;
+import io.invertase.firebase.storage.RNFirebaseStoragePackage;
 
 public class MainApplication extends Application implements ReactApplication {
 
@@ -38,7 +39,8 @@ public class MainApplication extends Application implements ReactApplication {
               new RNFirebaseFirestorePackage(),
               new RNFirebaseCrashlyticsPackage(),
               new RNFirebaseDatabasePackage(),
-              new RNFirebaseRemoteConfigPackage()
+              new RNFirebaseRemoteConfigPackage(),
+              new RNFirebaseStoragePackage()
       );
     }
 
