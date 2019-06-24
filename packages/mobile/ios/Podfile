@@ -7,7 +7,8 @@ target 'reactNativeMonoRepoStarter' do
 
   # Pods for reactNativeMonoRepoStarter
   pod 'Firebase/Core', '~> 6.2.0'
-
+  pod 'GoogleIDFASupport', '~> 3.14.0'
+  
   target 'reactNativeMonoRepoStarterTests' do
     inherit! :search_paths
     # Pods for testing
