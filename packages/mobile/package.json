@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node ../../node_modules/react-native/local-cli/cli.js start --projectRoot ../../",
     "test": "jest",
-    "xcode": "open ios/reactNativeMonoRepoStarter.xcodeproj",
+    "xcode": "open ios/reactNativeMonoRepoStarter.xcworkspace",
     "studio": "open -a /Applications/Android\\ Studio.app ./android/"
   },
   "dependencies": {
