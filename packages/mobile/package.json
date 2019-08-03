@@ -20,7 +20,6 @@
     "@babel/core": "^7.4.4",
     "@babel/runtime": "^7.4.4",
     "babel-jest": "^24.8.0",
-    "babel-plugin-transform-remove-console": "^6.9.4",
     "eslint": "^5.16.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^5.0.0",

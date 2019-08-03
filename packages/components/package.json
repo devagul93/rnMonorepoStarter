@@ -24,7 +24,6 @@
     "redux-thunk": "2.3.0"
   },
   "devDependencies": {
-    "babel-plugin-transform-remove-console": "^6.9.4",
     "eslint": "^5.16.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^5.0.0",
