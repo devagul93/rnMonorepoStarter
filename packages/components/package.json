@@ -12,7 +12,7 @@
     "@react-navigation/web": "^1.0.0-alpha.9",
     "axios": "0.19.0",
     "lodash": "4.17.11",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "react": "16.8.3",
     "react-native": "0.59.8",
     "react-native-firebase": "5.5.3",
